@@ -1,0 +1,12 @@
+<!-- About page for the links example -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My about page</title>
+  </head>
+
+  <body>
+    <h1>This is the About Page</h1>
+  </body>
+</html>
