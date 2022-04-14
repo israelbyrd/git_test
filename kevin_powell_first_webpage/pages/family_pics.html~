@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+  <body>
+  <img src="./images/silasStarWars.jpg" alt="Silas in front of Chewbacca and R2D2 at Disneyland Galaxy's edge" title="Silas is a Star Wars Nerd" width=384 height=512>
+  <img src="./images/adaGreatSave.jpg" alt="Ada making a great ice hockey save." title="Great Save!" width=771 height=512>
+  </body>
+</html>
